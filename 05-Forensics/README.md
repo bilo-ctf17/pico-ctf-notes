@@ -2,11 +2,15 @@
 
 Digital Forensics challenges involve analyzing memory dumps, network traffic packet captures (PCAPs), corrupted file systems, steganography, and file metadata.
 
+---
+
 ## 📌 Subdirectories & Challenges
 
 | Challenge Name | Platform | Difficulty | Key Concepts | Link |
 |:---|:---|:---:|:---|:---:|
-| Wireshark-two | PicoCTF | Medium | PCAP Analysis, DNS Data Exfiltration | [View](./PicoCTF/Wireshark-two/) |
+| *Pending* | PicoCTF | — | — | — |
+
+---
 
 ## 🛠️ Essential Tools
 
@@ -16,3 +20,4 @@ Digital Forensics challenges involve analyzing memory dumps, network traffic pac
 - **ExifTool**: Metadata inspection (`exiftool image.png`)
 - **Stegsolve / zsteg**: Image steganography solver
 - **Autopsy**: Full disk image forensics & timeline analysis
+

@@ -2,11 +2,15 @@
 
 This category focuses on classical ciphers, modern symmetric & asymmetric encryption algorithms, hash functions, and mathematical cryptanalysis.
 
+---
+
 ## 📌 Subdirectories & Challenges
 
 | Challenge Name | Platform | Difficulty | Key Concepts | Link |
 |:---|:---|:---:|:---|:---:|
-| RSA-Pop-Quiz | PicoCTF | Medium | RSA mathematics, SageMath | [View](./PicoCTF/RSA-Pop-Quiz/) |
+| *Pending* | PicoCTF | — | — | — |
+
+---
 
 ## 🛠️ Essential Tools & Libraries
 
@@ -15,3 +19,4 @@ This category focuses on classical ciphers, modern symmetric & asymmetric encryp
 - **RsaCftTool**: Automated RSA attack suite
 - **Hashcat / John the Ripper**: Hash cracking and dictionary attacks
 - **Factordb / Alpertron**: Integer factorization databases
+
