@@ -2,7 +2,7 @@
 
 [![PicoCTF Profile](https://img.shields.io/badge/PicoCTF-Profile-orange?style=for-the-badge&logo=picoctf)](https://learn.cylabacademy.org/users/billoctf)
 
-Welcome to my **Capture The Flag (CTF) & Cybersecurity Proof of Work Repository**.
+Welcome to my **Capture The Flag (CTF)hh & Cybersecurity Proof of Work Repository**.
 This repository serves as a centralized, structured portfolio showcasing my problem-solving skills, hands-on experience, technical writeups, and automated exploit scripts across **PicoCTF** and other major CTF platforms (*HackTheBox, TryHackMe, CTFtime events*).
 
 ---
