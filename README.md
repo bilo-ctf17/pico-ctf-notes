@@ -1,9 +1,7 @@
 # 🛡️ Cybersecurity CTF Proof of Work & Writeups Portfolio
 
 [![PicoCTF Profile](https://img.shields.io/badge/PicoCTF-Profile-orange?style=for-the-badge&logo=picoctf)](https://picoctf.org)
-[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-red?style=for-the-badge&logo=ctftime)](https://ctftime.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
 
 Welcome to my **Capture The Flag (CTF) & Cybersecurity Proof of Work Repository**. 
 This repository serves as a centralized, structured portfolio showcasing my problem-solving skills, hands-on experience, technical writeups, and automated exploit scripts across **PicoCTF** and other major CTF platforms (*HackTheBox, TryHackMe, CTFtime events*).
