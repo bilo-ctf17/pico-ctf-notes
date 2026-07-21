@@ -2,7 +2,7 @@
 
 [![PicoCTF Profile](https://img.shields.io/badge/PicoCTF-Profile-orange?style=for-the-badge&logo=picoctf)](https://learn.cylabacademy.org/users/billoctf)
 
-Welcome to my **Capture The Flag (CTF)hh & Cybersecurity Proof of Work Repository**.
+Welcome to my **Capture The Flag (CTF) & Cybersecurity Proof of Work Repository**.
 This repository serves as a centralized, structured portfolio showcasing my problem-solving skills, hands-on experience, technical writeups, and automated exploit scripts across **PicoCTF** and other major CTF platforms (*HackTheBox, TryHackMe, CTFtime events*).
 
 ---
@@ -46,7 +46,7 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 
 | ID | Platform | Category | Challenge Name | Points | Difficulty | Key Concepts / Vulnerabilities | Writeup & Script |
 |:---|:---|:---|:---|:---:|:---:|:---|:---|
-| 001 | PicoCTF | Binary Exploitation | [format-string-0](./06-Binary-Exploitation/format-string-0/) | 100 | `Easy` | Format Strings, Width Modifiers, Stack Dereferencing, SIGSEGV Signal Handler | [Writeup](./06-Binary-Exploitation/format-string-0/README.md) \| [Source](./06-Binary-Exploitation/format-string-0/format-string-0.c) |
+| 001 | PicoCTF | Binary Exploitation | [format-string-0](./06-Binary-Exploitation/format-string-0/) | 50 | `Easy` | Format Strings, Width Modifiers, Stack Dereferencing, SIGSEGV Signal Handler | [Writeup](./06-Binary-Exploitation/format-string-0/README.md) \| [Source](./06-Binary-Exploitation/format-string-0/format-string-0.c) |
 | 002 | PicoCTF | General Skills | [Undo](./01-General-Skills/Undo/) | 100 | `Easy` | Base64 decoding, string reversal, tr mapping (ROT13) | [Writeup](./01-General-Skills/Undo/writeup.md) |
 
 ---
