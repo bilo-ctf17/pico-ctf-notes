@@ -8,7 +8,7 @@ This category focuses on essential Linux CLI commands, shell scripting, data rep
 
 | Challenge Name | Platform | Difficulty | Key Concepts | Link |
 |:---|:---|:---:|:---|:---:|
-| *Pending* | PicoCTF | — | — | — |
+| [Undo](./Undo/writeup.md) | PicoCTF | Easy | CLI utilities (base64, rev, tr) | [Writeup](./Undo/writeup.md) |
 
 ---
 

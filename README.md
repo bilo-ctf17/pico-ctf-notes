@@ -26,13 +26,28 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 
 ---
 
+## 🏆 Scoreboard & Progress
+
+| Category | Solved | Points |
+| :--- | :---: | :---: |
+| 🧰 General Skills | 1 | 100 pts |
+| 🌐 Web Exploitation | 0 | 0 pts |
+| 🔐 Cryptography | 0 | 0 pts |
+| ⚙️ Reverse Engineering | 0 | 0 pts |
+| 🔍 Forensics | 0 | 0 pts |
+| 💥 Binary Exploitation | 1 | 50 pts |
+| **Total** | **2** | **150 pts** |
+
+---
+
 ## 📊 Challenge Solves & Proof of Work Matrix
 
 > *The table below tracks documented challenge writeups, difficulty, key concepts, and solution scripts.*
 
-| ID | Platform | Category | Challenge Name | Difficulty | Key Concepts / Vulnerabilities | Writeup & Script |
-|:---|:---|:---|:---|:---:|:---|:---:|
-| 001 | PicoCTF | Binary Exploitation | [format-string-0](./06-Binary-Exploitation/format-string-0/) | `Easy` | Format Strings, Width Modifiers, Stack Dereferencing, SIGSEGV Signal Handler | [Writeup](./06-Binary-Exploitation/format-string-0/README.md) \| [Source](./06-Binary-Exploitation/format-string-0/format-string-0.c) |
+| ID | Platform | Category | Challenge Name | Points | Difficulty | Key Concepts / Vulnerabilities | Writeup & Script |
+|:---|:---|:---|:---|:---:|:---:|:---|:---|
+| 001 | PicoCTF | Binary Exploitation | [format-string-0](./06-Binary-Exploitation/format-string-0/) | 100 | `Easy` | Format Strings, Width Modifiers, Stack Dereferencing, SIGSEGV Signal Handler | [Writeup](./06-Binary-Exploitation/format-string-0/README.md) \| [Source](./06-Binary-Exploitation/format-string-0/format-string-0.c) |
+| 002 | PicoCTF | General Skills | [Undo](./01-General-Skills/Undo/) | 100 | `Easy` | Base64 decoding, string reversal, tr mapping (ROT13) | [Writeup](./01-General-Skills/Undo/writeup.md) |
 
 ---
 
