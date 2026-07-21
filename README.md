@@ -91,7 +91,6 @@ Every challenge folder in this portfolio follows a consistent schema:
 
 ## 📮 Contact & Professional Links
 
-- **GitHub**: [Your Github Username](https://github.com/)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/)
-- **Email**: `your.email@example.com`
-- **PicoCTF Username**: `[Your Username]`
+- **GitHub**: [bilo-ctf17](https://github.com/bilo-ctf17)
+
+- **PicoCTF Username**: `billoctf`
