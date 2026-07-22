@@ -9,6 +9,7 @@ This category focuses on essential Linux CLI commands, shell scripting, data rep
 | Challenge Name | Platform | Difficulty | Key Concepts | Link |
 |:---|:---|:---:|:---|:---:|
 | [Undo](./Undo/writeup.md) | PicoCTF | Easy | CLI utilities (base64, rev, tr) | [Writeup](./Undo/writeup.md) |
+| [Bytemancy-1](./Bytemancy-1/writeup.md) | PicoCTF | Easy | Python input, ASCII representation, shell piping | [Writeup](./Bytemancy-1/writeup.md) |
 
 ---
 

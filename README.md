@@ -30,13 +30,13 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 
 | Category | Solved | Points |
 | :--- | :---: | :---: |
-| 🧰 General Skills | 1 | 100 pts |
+| 🧰 General Skills | 2 | 200 pts |
 | 🌐 Web Exploitation | 0 | 0 pts |
 | 🔐 Cryptography | 0 | 0 pts |
 | ⚙️ Reverse Engineering | 0 | 0 pts |
 | 🔍 Forensics | 0 | 0 pts |
 | 💥 Binary Exploitation | 1 | 50 pts |
-| **Total** | **2** | **150 pts** |
+| **Total** | **3** | **250 pts** |
 
 ---
 
@@ -48,6 +48,7 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 |:---|:---|:---|:---|:---:|:---:|:---|:---|
 | 001 | PicoCTF | Binary Exploitation | [format-string-0](./06-Binary-Exploitation/format-string-0/) | 50 | `Easy` | Format Strings, Width Modifiers, Stack Dereferencing, SIGSEGV Signal Handler | [Writeup](./06-Binary-Exploitation/format-string-0/README.md) \| [Source](./06-Binary-Exploitation/format-string-0/format-string-0.c) |
 | 002 | PicoCTF | General Skills | [Undo](./01-General-Skills/Undo/) | 100 | `Easy` | Base64 decoding, string reversal, tr mapping (ROT13) | [Writeup](./01-General-Skills/Undo/writeup.md) |
+| 003 | PicoCTF | General Skills | [Bytemancy-1](./01-General-Skills/Bytemancy-1/) | 100 | `Easy` | Python input, ASCII representation, shell piping | [Writeup](./01-General-Skills/Bytemancy-1/writeup.md) \| [Source](./01-General-Skills/Bytemancy-1/app.py) |
 
 ---
 
