@@ -30,13 +30,13 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 
 | Category | Solved | Points |
 | :--- | :---: | :---: |
-| 🧰 General Skills | 4 | 500 pts |
+| 🧰 General Skills | 5 | 600 pts |
 | 🌐 Web Exploitation | 0 | 0 pts |
 | 🔐 Cryptography | 0 | 0 pts |
 | ⚙️ Reverse Engineering | 0 | 0 pts |
 | 🔍 Forensics | 0 | 0 pts |
 | 💥 Binary Exploitation | 1 | 50 pts |
-| **Total** | **5** | **550 pts** |
+| **Total** | **6** | **650 pts** |
 
 ---
 
@@ -51,6 +51,7 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 | 003 | PicoCTF | General Skills | [Bytemancy-1](./01-General-Skills/Bytemancy-1/) | 100 | `Easy` | Python input, ASCII representation, shell piping | [Writeup](./01-General-Skills/Bytemancy-1/writeup.md) \| [Source](./01-General-Skills/Bytemancy-1/app.py) |
 | 004 | PicoCTF | General Skills | [MultiCode](./01-General-Skills/Multicode/) | 200 | `Easy` | Base64, Hex, URL Decode, ROT13 (multi-layered decoding) | [Writeup](./01-General-Skills/Multicode/writeup.md) |
 | 005 | PicoCTF | General Skills | [ping-cmd](./01-General-Skills/ping-cmd/) | 100 | `Easy` | OS Command Injection, input validation bypass | [Writeup](./01-General-Skills/ping-cmd/writeup.md) |
+| 006 | PicoCTF | General Skills | [strings it](./01-General-Skills/Strings-it/) | 100 | `Easy` | Extract printable strings from binary files | [Writeup](./01-General-Skills/Strings-it/writeup.md) |
 
 ---
 

@@ -12,6 +12,7 @@ This category focuses on essential Linux CLI commands, shell scripting, data rep
 | [Bytemancy-1](./Bytemancy-1/writeup.md) | PicoCTF | Easy | Python input, ASCII representation, shell piping | [Writeup](./Bytemancy-1/writeup.md) |
 | [MultiCode](./Multicode/writeup.md) | PicoCTF | Easy | Base64, Hex, URL Decode, ROT13 (multi-layered decoding) | [Writeup](./Multicode/writeup.md) |
 | [ping-cmd](./ping-cmd/writeup.md) | PicoCTF | Easy | OS Command Injection, input validation bypass | [Writeup](./ping-cmd/writeup.md) |
+| [strings it](./Strings-it/writeup.md) | PicoCTF | Easy | Extract printable strings from binary files | [Writeup](./Strings-it/writeup.md) |
 
 ---
 
