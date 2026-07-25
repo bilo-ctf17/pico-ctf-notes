@@ -10,6 +10,7 @@ This category focuses on essential Linux CLI commands, shell scripting, data rep
 |:---|:---|:---:|:---|:---:|
 | [Undo](./Undo/writeup.md) | PicoCTF | Easy | CLI utilities (base64, rev, tr) | [Writeup](./Undo/writeup.md) |
 | [Bytemancy-1](./Bytemancy-1/writeup.md) | PicoCTF | Easy | Python input, ASCII representation, shell piping | [Writeup](./Bytemancy-1/writeup.md) |
+| [MultiCode](./Multicode/writeup.md) | PicoCTF | Easy | Base64, Hex, URL Decode, ROT13 (multi-layered decoding) | [Writeup](./Multicode/writeup.md) |
 
 ---
 
