@@ -35,8 +35,8 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 | 🔐 Cryptography | 0 | 0 pts |
 | ⚙️ Reverse Engineering | 0 | 0 pts |
 | 🔍 Forensics | 0 | 0 pts |
-| 💥 Binary Exploitation | 1 | 50 pts |
-| **Total** | **6** | **650 pts** |
+| 💥 Binary Exploitation | 2 | 150 pts |
+| **Total** | **7** | **750 pts** |
 
 ---
 
@@ -52,6 +52,7 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 | 004 | PicoCTF | General Skills | [MultiCode](./01-General-Skills/Multicode/) | 200 | `Easy` | Base64, Hex, URL Decode, ROT13 (multi-layered decoding) | [Writeup](./01-General-Skills/Multicode/writeup.md) |
 | 005 | PicoCTF | General Skills | [ping-cmd](./01-General-Skills/ping-cmd/) | 100 | `Easy` | OS Command Injection, input validation bypass | [Writeup](./01-General-Skills/ping-cmd/writeup.md) |
 | 006 | PicoCTF | General Skills | [strings it](./01-General-Skills/Strings-it/) | 100 | `Easy` | Extract printable strings from binary files | [Writeup](./01-General-Skills/Strings-it/writeup.md) |
+| 007 | PicoCTF | Binary Exploitation | [Echo-Escape](./06-Binary-Exploitation/Echo-Escape/) | 100 | `Medium` | Buffer Overflow (ret2win), Stack Hijacking, Little-Endian Addresses | [Writeup](./06-Binary-Exploitation/Echo-Escape/writeup.md) \| [Source](./06-Binary-Exploitation/Echo-Escape/vuln.c) |
 
 ---
 
