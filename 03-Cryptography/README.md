@@ -8,7 +8,7 @@ This category focuses on classical ciphers, modern symmetric & asymmetric encryp
 
 | Challenge Name | Platform | Difficulty | Key Concepts | Link |
 |:---|:---|:---:|:---|:---:|
-| *Pending* | PicoCTF | — | — | — |
+| [StegoRSA](./StegoRSA/writeup.md) | picoCTF | Easy | EXIF Metadata, RSA Private Key Recovery, CyberChef | [Writeup](./StegoRSA/writeup.md) |
 
 ---
 
