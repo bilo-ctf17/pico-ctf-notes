@@ -14,6 +14,7 @@ This category focuses on essential Linux CLI commands, shell scripting, data rep
 | [ping-cmd](./ping-cmd/writeup.md) | PicoCTF | Easy | OS Command Injection, input validation bypass | [Writeup](./ping-cmd/writeup.md) |
 | [strings it](./Strings-it/writeup.md) | PicoCTF | Easy | Extract printable strings from binary files | [Writeup](./Strings-it/writeup.md) |
 | [Wave a flag](./wave_a_flag/writeup.md) | PicoCTF | Easy | Linux binary execution, Command-line flags (`-h`) | [Writeup](./wave_a_flag/writeup.md) |
+| [endianness](./Endianness/writeup.md) | PicoCTF | Easy | Byte ordering, Big Endian, Little Endian conversion | [Writeup](./Endianness/writeup.md) |
 
 ---
 

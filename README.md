@@ -30,13 +30,13 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 
 | Category | Solved | Points |
 | :--- | :---: | :---: |
-| 🧰 General Skills | 5 | 600 pts |
+| 🧰 General Skills | 7 | 710 pts |
 | 🌐 Web Exploitation | 0 | 0 pts |
-| 🔐 Cryptography | 0 | 0 pts |
+| 🔐 Cryptography | 1 | 100 pts |
 | ⚙️ Reverse Engineering | 0 | 0 pts |
 | 🔍 Forensics | 0 | 0 pts |
 | 💥 Binary Exploitation | 2 | 150 pts |
-| **Total** | **7** | **750 pts** |
+| **Total** | **10** | **960 pts** |
 
 ---
 
@@ -53,6 +53,9 @@ This repository serves as a centralized, structured portfolio showcasing my prob
 | 005 | PicoCTF | General Skills | [ping-cmd](./01-General-Skills/ping-cmd/) | 100 | `Easy` | OS Command Injection, input validation bypass | [Writeup](./01-General-Skills/ping-cmd/writeup.md) |
 | 006 | PicoCTF | General Skills | [strings it](./01-General-Skills/Strings-it/) | 100 | `Easy` | Extract printable strings from binary files | [Writeup](./01-General-Skills/Strings-it/writeup.md) |
 | 007 | PicoCTF | Binary Exploitation | [Echo-Escape](./06-Binary-Exploitation/Echo-Escape/) | 100 | `Medium` | Buffer Overflow (ret2win), Stack Hijacking, Little-Endian Addresses | [Writeup](./06-Binary-Exploitation/Echo-Escape/writeup.md) \| [Source](./06-Binary-Exploitation/Echo-Escape/vuln.c) |
+| 008 | PicoCTF | General Skills | [Wave a flag](./01-General-Skills/wave_a_flag/) | 10 | `Easy` | Linux binary execution, Command-line flags (`-h`) | [Writeup](./01-General-Skills/wave_a_flag/writeup.md) |
+| 009 | PicoCTF | Cryptography | [StegoRSA](./03-Cryptography/StegoRSA/) | 100 | `Easy` | EXIF Metadata, RSA Private Key Recovery, CyberChef Decryption | [Writeup](./03-Cryptography/StegoRSA/writeup.md) |
+| 010 | PicoCTF | General Skills | [endianness](./01-General-Skills/Endianness/) | 100 | `Easy` | Byte ordering, Big Endian, Little Endian conversion | [Writeup](./01-General-Skills/Endianness/writeup.md) \| [Source](./01-General-Skills/Endianness/flag.c) |
 
 ---
 
@@ -88,7 +91,7 @@ Focuses on memory corruption bugs: Stack-based buffer overflows, Return-Oriented
 
 Every challenge folder in this portfolio follows a consistent schema:
 
-1. `README.md` - Complete writeup formatted using [`WRITEUP_TEMPLATE.md`](./docs/WRITEUP_TEMPLATE.md).
+1. `README.md` / `writeup.md` - Complete writeup formatted using [`WRITEUP_TEMPLATE.md`](./docs/WRITEUP_TEMPLATE.md).
 2. `solve.py` / `solve.sh` - Fully automated, reproducible solution script (using `pwntools`, `requests`, `scapy`, etc.).
 3. `assets/` - Relevant screenshots, original challenge files, PCAPs, or disassembled snippets.
 
